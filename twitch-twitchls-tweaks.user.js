@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch: Twitchls tweaks
-// @version      0.2
+// @version      0.3
 // @description  adds a button to watch the stream on twitchls.com and more tweaks
 // @author       GiantTree
 // @include      /^https?\:\/\/(www|player)\.twitch\.tv/
