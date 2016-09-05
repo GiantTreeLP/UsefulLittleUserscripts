@@ -27,7 +27,7 @@ function addButton() {
         setTimeout(addButton, 500);
         return;
     }
-    jQuery("div.channel-actions").append("<a class='button action' href='" + "//twitchls.com" + document.URL.substring(document.URL.lastIndexOf("/")) + "'>Watch on Twitchls.com</a>");
+    jQuery("div.channel-actions").append("<a class='button action' href='" + "http://twitchls.com" + document.URL.substring(document.URL.lastIndexOf("/")) + "'>Watch on Twitchls.com</a>");
     console.log("Button added");
 }
 
